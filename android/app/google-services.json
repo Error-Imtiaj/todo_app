@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566404755383",
+    "project_id": "jaimu-todo",
+    "storage_bucket": "jaimu-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566404755383:android:a216e0eda30c0588984232",
+        "android_client_info": {
+          "package_name": "com.example.jaimu_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RZsCnlVKnT_L9umI8W6sSMADblVJX_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
